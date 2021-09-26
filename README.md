@@ -8,7 +8,7 @@
 - O projeto consiste em simular a metodologia CRUD na estruturação de Plataforma de captura de informações de Pokemons, através de endpoints `GET` para alimentar as demandas.
 
 ---
-### LINK DA DOCUMENTAÇÃO NO POSTMAN: 
+### LINK DA DOCUMENTAÇÃO NO POSTMAN: `https://documenter.getpostman.com/view/15825773/UUxxhUAJ`
 
 ---
 ### `GET` PokeList Ordered and Paged
